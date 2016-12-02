@@ -1,0 +1,27 @@
+https://wx.qq.com/cgi-bin/mmwebwx-bin/webwxverifyuser?r=1479909613110&pass_ticket=q3CltCEmoNHlAPVgCZWGybrKNL2q5%252B1Tbw2dgzy6PJ6ar11oqQp%252F4xm376YKKyFi
+
+POST
+
+
+{
+    "BaseRequest": {
+        "Uin": 278017595,
+        "Sid": "y0SS5rX5gYbhoHqR",
+        "Skey": "@crypt_7d1a75ca_b26d8ab9d4d32baca990b320eb40d3c1",
+        "DeviceID": "e609462146745052"
+    },
+    "Opcode": 2,
+    "VerifyUserListSize": 1,
+    "VerifyUserList": [
+        {
+            "Value": "@7cc6e70f37c0c01785e5460f40f754d9ab3d38549224983c7569d5519e1855ea",
+            "VerifyUserTicket": ""
+        }
+    ],
+    "VerifyContent": "我是锋",
+    "SceneListCount": 1,
+        "SceneList": [
+            33
+        ],
+        "skey": "@crypt_7d1a75ca_b26d8ab9d4d32baca990b320eb40d3c1"
+}
